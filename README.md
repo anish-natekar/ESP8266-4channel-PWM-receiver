@@ -5,6 +5,8 @@ Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the 
 
 Tested on ESP8266 12f, 12e , and Nodemcu development board.
 
+the project is based on WifiPPM project and changed to give PWM signals- https://www.instructables.com/Wifi-PPM-no-App-Needed/
+
 *Access point details* :-
 
 SSID: WifiPPM
@@ -20,8 +22,6 @@ ch2 -> D3 - GPIO 0
 ch3 -> D1 - GPIO 5
 
 ch4 -> D2 - GPIO 4
-
-the project is based on WifiPPM project and changed to give PWM signals- https://www.instructables.com/Wifi-PPM-no-App-Needed/
 
 Access Point first test WiFi PWM receiver using smart phone - https://youtu.be/eeE180ZjaME  
 Tested on YMFC AL Arduino Uno quadcopter - https://youtu.be/MMIb9IrTuvA
