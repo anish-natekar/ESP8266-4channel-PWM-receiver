@@ -6,9 +6,13 @@ SSID: WifiPPM
 password: Wifi_PPM
 
 PWM Channel Mapping:-
+
 ch1 -> D4 - GPIO 2
+
 ch2 -> D3 - GPIO 0
+
 ch3 -> D1 - GPIO 5
+
 ch4 -> D2 - GPIO 4
 
 the project is based on WifiPPM project and changed to give PWM signals- https://www.instructables.com/Wifi-PPM-no-App-Needed/
