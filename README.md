@@ -6,6 +6,7 @@ Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the 
 Tested on ESP8266 12f, 12e , and Nodemcu development board.
 
 the project is based on WifiPPM project and changed to give PWM signals- https://www.instructables.com/Wifi-PPM-no-App-Needed/
+no APP is needed you just need to visit the IP address 192.168.4.1 through a browser like mozilla/brave on you smart phone.
 
 *Access point details* :-
 
