@@ -1,5 +1,7 @@
 # ESP8266-4channel-PWM-receiver
-A WiFi receiver used to control quadcopters. It currently is coded for 4 channel output but can go to 8 or even beyond. This receiver was tested on YMFC AL Arduino Uno quadcopter
+A WiFi receiver used to control quadcopters. It currently is coded for 4 channel output but can go to 8 or even beyond. This receiver was tested on YMFC AL Arduino Uno quadcopter as a replacement for a Fly Sky receiver. Code requires Arduino IDE ESP8266 core to be added.
+
+Enter https://arduino.esp8266.com/stable/package_esp8266com_index.json into the File>Preferences>Additional Boards Manager URLs field of the Arduino IDE. You can add multiple URLs, separating them with commas.
 
 Tested on ESP8266 12f, 12e , and Nodemcu development board.
 
